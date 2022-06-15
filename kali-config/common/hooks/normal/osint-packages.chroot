@@ -41,6 +41,7 @@ pip install --upgrade geopy
 pip install --upgrade h8mail
 pip install --upgrade shodan
 pip install toutatis
+pip install maigret
 
 
 mkdir -p /usr/share/phoneinfoga
