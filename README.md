@@ -84,6 +84,7 @@ https://www.tracelabs.org/initiatives/osint-vm
 * Mailfy (OSRFramework)
 * theHarvester
 * h8mail
+* Holehe
 
 **Frameworks**
 * Little Brother
@@ -107,6 +108,7 @@ https://www.tracelabs.org/initiatives/osint-vm
 * Alias Generator (OSRFramework)
 * Sherlock
 * Usufy (OSRFramework)
+* Maigret
 
 **Other tools
 * Photon
