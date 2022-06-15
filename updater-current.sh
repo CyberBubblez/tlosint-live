@@ -243,7 +243,7 @@ tput setaf 5;echo "[+] Updating Twayback..."
   fi
 }
 tput setaf 2;echo "[+] Done."
-
+tput setaf 2;read -s -n 1 -p "Press any key to continue..."
 ############################
 
 
