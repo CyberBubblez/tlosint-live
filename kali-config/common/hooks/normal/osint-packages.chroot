@@ -42,6 +42,7 @@ pip install --upgrade h8mail
 pip install --upgrade shodan
 pip install toutatis
 pip install maigret
+pip install holehe
 
 
 mkdir -p /usr/share/phoneinfoga
